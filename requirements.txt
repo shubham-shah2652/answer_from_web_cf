@@ -1,0 +1,6 @@
+functions-framework
+google-cloud-aiplatform[adk,agent_engines]
+cloudpickle
+llama_index
+google-adk
+google-genai
